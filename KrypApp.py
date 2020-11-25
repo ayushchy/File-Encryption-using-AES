@@ -2,7 +2,6 @@
 """
     Name: KrypApp
     Type: File Encryption GUI App
-    Credits:
 """
 
 import os
